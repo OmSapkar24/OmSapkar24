@@ -7,8 +7,6 @@
 
 ---
 
-</div>
-
 <!-- Hero Banner -->
 <div align="center">
 
@@ -57,9 +55,8 @@ Hey there! I'm **Om Sapkar** – a tech enthusiast, developer, and professional 
 | Category | Technologies |
 |:---:|:---:|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Web Dev** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
@@ -70,22 +67,13 @@ Hey there! I'm **Om Sapkar** – a tech enthusiast, developer, and professional 
 
 ## 🏆 **Achievements**
 
-<details>
-<summary><b>🎖️ Milestones & Certifications (Click to expand)</b></summary>
-
 <div align="center">
 
-| Achievement | Status |
-|:---|:---:|
-| 🎓 Completed Web Development Bootcamp | ✅ |
-| 🏅 Participated in Multiple Hackathons | ✅ |
-| 💼 Built 10+ Personal Projects | ✅ |
-| 🌟 Active Open Source Contributor | 🚀 |
-| 📚 Lifelong Learner | 🔄 |
+🥇 **Hackathon Winner** | 🎖️ **Open Source Contributor** | ⭐ **100+ GitHub Stars**
+
+*Proof that caffeine and determination can move mountains (of code)*
 
 </div>
-
-</details>
 
 ---
 
@@ -95,56 +83,19 @@ Hey there! I'm **Om Sapkar** – a tech enthusiast, developer, and professional 
 
 ### Featured Projects
 
+| Project | Description | Tech Stack |
+|:---:|:---:|:---:|
+| 🔥 **[Project Alpha](#)** | Revolutionary app that does revolutionary things | React, Node.js, MongoDB |
+| 🌟 **[Project Beta](#)** | Because one project wasn't enough | Python, Django, PostgreSQL |
+| 💎 **[Project Gamma](#)** | The one that actually works | JavaScript, Express, MySQL |
+
 </div>
-
-1. **🎨 Portfolio Website**
-   - Fully responsive personal portfolio showcasing projects and skills
-   - *Tech:* HTML, CSS, JavaScript, React
-   - 🔗 [View Project](#)
-
-2. **🤖 AI Chatbot**
-   - Intelligent conversational bot with NLP capabilities
-   - *Tech:* Python, TensorFlow, Flask
-   - 🔗 [View Project](#)
-
-3. **📱 Task Manager App**
-   - Productivity app with real-time sync and reminders
-   - *Tech:* React Native, Firebase, Node.js
-   - 🔗 [View Project](#)
-
-4. **🌐 E-Commerce Platform**
-   - Full-stack shopping platform with payment integration
-   - *Tech:* Django, PostgreSQL, Stripe API
-   - 🔗 [View Project](#)
-
-5. **📊 Data Visualization Dashboard**
-   - Interactive analytics dashboard for business insights
-   - *Tech:* D3.js, Python, MongoDB
-   - 🔗 [View Project](#)
 
 ---
 
 ## 😂 **Humor Zone**
 
 <div align="center">
-
-### Daily Developer Life
-
-```
-┌─────────────────────────────────┐
-│  MY CODING PROCESS:             │
-│                                 │
-│  1. Write code                  │
-│  2. Code breaks                 │
-│  3. Panic                       │
-│  4. Google error                │
-│  5. Copy StackOverflow          │
-│  6. It works!                   │
-│  7. Don't touch it again        │
-└─────────────────────────────────┘
-```
-
----
 
 ### Programming Reality
 
@@ -164,6 +115,24 @@ Current Mood: [ ▓▓▓▓▓▓▓▓▓░ ] 90% Coffee, 10% Code
 ```
 
 ![Meme](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+---
+
+### 😎 Developer Life in GIFs
+
+<div align="center">
+
+#### When the recruiter checks your commit history...
+
+![Doakes Staring](https://media.tenor.com/jJiTISi-bZ8AAAAC/doakes-james-doakes.gif)
+
+---
+
+#### When you finally fix that bug at 3 AM
+
+![This is Fine](https://media.tenor.com/lNR3HWcg4ZUAAAAC/this-is-fine-fire.gif)
+
+</div>
 
 </div>
 
