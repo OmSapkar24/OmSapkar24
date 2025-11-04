@@ -1,4 +1,4 @@
-# 👋 Welcome to Om Sapkar's Portfolio
+#  Welcome to Om Sapkar's Portfolio
 
 <div align="center">
 
