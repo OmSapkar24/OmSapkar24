@@ -1,116 +1,131 @@
-<!-- Navigation Index -->
 <div align="center">
 
-## 📑 Quick Navigation
+# 👋 Hello, I'm Om Sapkar
 
-[🎯 About Me](#-about-me) • [💻 Tech Stack](#-tech-stack) • [🏆 Achievements](#-achievements) • [🚀 Project Highlights](#-project-highlights) • [😂 Humor Zone](#-humor-zone) • [📊 GitHub Stats](#-github-stats) • [🤝 Connect](#-connect-with-me)
+### Data Scientist & ML Engineer | Building Intelligent Solutions
 
----
-
-## 🔥 **Totally Legit Streak & Contributions** ☕
-
-<div align="center">
-
-### *The Numbers That Matter™*
-
-![Current Streak](https://img.shields.io/badge/Current_Streak-846_days*-ff6b35?style=for-the-badge&logo=github&logoColor=white)
-![Total Contributions](https://img.shields.io/badge/Total_Contributions-5,432*-00d4ff?style=for-the-badge&logo=git&logoColor=white)
-![Coffee Consumed](https://img.shields.io/badge/Coffee_Consumed-9,999+_cups*-6f4e37?style=for-the-badge&logo=coffeescript&logoColor=white)
-![Bugs Created](https://img.shields.io/badge/Bugs_Created-∞*-ff0000?style=for-the-badge&logo=bugsnag&logoColor=white)
-![Bugs Fixed](https://img.shields.io/badge/Bugs_Fixed-∞-1*-00ff00?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-### 📈 Achievement Unlocked!
-
-🏆 **Master Procrastinator** - Successfully avoided 247 deadlines  
-☕ **Caffeine Overlord** - Blood type changed to espresso  
-🐛 **Bug Whisperer** - Fixed bugs by talking to rubber ducks  
-🌙 **Night Owl Elite** - 98% of commits after midnight  
-
----
-
-<sub>* Numbers may be exaggerated by caffeine and optimism.</sub>  
-<sub>** Verified only by my cat and coffee mug. 🐱☕</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omsapkar1224/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsapkar17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmSapkar24)
 
 </div>
 
 ---
 
-<!-- Hero Banner -->
+## 🚀 About Me
 
-![Gen Z Vibes](https://img.shields.io/badge/VIBES-GEN%20Z%20ENERGY-ff006e?style=for-the-badge&logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/STATUS-PROCRASTINATING%20PRODUCTIVELY-00f5ff?style=for-the-badge&logo=python&logoColor=white)
-![Coffee](https://img.shields.io/badge/CAFFEINE%20LEVEL-MAXIMUM%209000-ffd500?style=for-the-badge&logo=coffeescript&logoColor=black)
+I'm a **Data Scientist and ML Engineer** with **5+ years of experience** building production-grade machine learning systems. I specialize in:
 
-```
- ｃａｔ　ｃｏｄｅｓ　ａｔ　３ａｍ
-    /\_/\
-   ( o.o )
-    > ^ <
-   /|   |\
-  (_|   |_)
-```
+- 📊 **Financial Forecasting & Time Series Analysis** - Building predictive models for revenue and market trends
+- 🤖 **Natural Language Processing** - Sentiment analysis, text classification, and language models
+- 📈 **Customer Analytics** - Churn prediction, segmentation, and recommendation systems
+- 🔍 **Deep Learning** - Neural networks for computer vision, NLP, and predictive modeling
 
-# 💻 **NEON PORTFOLIO OF Om Sapkar** 🚀
-
-*Where bugs go to sleep and procrastination meets productivity*
+**Currently:** Actively seeking Data Analyst/Data Scientist roles globally, with expertise in Python, TensorFlow, and production ML systems.
 
 ---
 
-</div>
-
-## 🎯 **About Me**
+## 💻 Tech Stack
 
 <div align="center">
 
-Hey there! I'm **Om Sapkar** – a tech enthusiast, developer, and professional procrastinator (but make it productive). I turn caffeine into code and ideas into reality, one commit at a time.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**🌟 Current Status:** Building cool stuff while debugging life
+### ML/DL Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**🎓 Student | 💡 Developer | 🚀 Tech Explorer**
+### Data Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
 ---
 
-## 💻 **Tech Stack**
+## 🎯 Featured Projects
 
-<details>
-<summary><b>🔧 Languages & Frameworks (Click to expand)</b></summary>
+### 📊 [Sales Revenue Forecasting Model](https://github.com/OmSapkar24/sales-revenue-model)
+Built a time-series forecasting model to predict sales revenue with 92% accuracy using ARIMA and LSTM networks.
+**Tech:** Python, Pandas, TensorFlow, Prophet
+
+### 📱 [Customer Churn Prediction - Hermes](https://github.com/OmSapkar24/Hermes_Churn_Data_Predication-)
+Developed a churn prediction system for telecom customers using ensemble methods, achieving 88% F1-score.
+**Tech:** Python, Scikit-learn, XGBoost, Feature Engineering
+
+### 📈 [Stock Market Analysis & Prediction](https://github.com/OmSapkar24/Stock_Market_Analysis)
+Created an LSTM-based model for stock price prediction with technical indicators and sentiment analysis integration.
+**Tech:** Python, LSTM, TensorFlow, Yahoo Finance API
+
+### 🛍️ [E-commerce Product Recommendation](https://github.com/OmSapkar24/E-commerce_Product_Recommendation)
+Built a collaborative filtering recommendation system increasing user engagement by 35%.
+**Tech:** Python, Surprise, Matrix Factorization, Content-Based Filtering
+
+### 💬 [Sentiment Analysis of Social Media](https://github.com/OmSapkar24/Sentiment-Analysis-of-Social-Media-Data)
+Real-time sentiment classification on social media posts using BERT and transformer models.
+**Tech:** Python, BERT, Transformers, NLP
+
+### 🎯 [Marketing Campaign Analysis](https://github.com/OmSapkar24/marketing-campaign-analysis)
+Analyzed marketing campaign effectiveness and predicted conversion rates using logistic regression and decision trees.
+**Tech:** Python, Pandas, Scikit-learn, A/B Testing
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Category | Technologies |
-|:---:|:---:|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
-| **Web Dev** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmSapkar24&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmSapkar24&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmSapkar24&theme=radical&hide_border=true)
 
 </div>
 
-</details>
+---
+
+## 🏆 Key Achievements
+
+✅ Built **15+ production ML models** deployed in real-world applications  
+✅ **5+ years** of hands-on experience in data science and machine learning  
+✅ Expertise in **financial forecasting**, achieving 90%+ accuracy rates  
+✅ Strong background in **NLP and deep learning** with transformer models  
+✅ Proven track record in **customer analytics** and predictive modeling  
 
 ---
 
-## 🤝 **Connect With Me**
+## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmSapkar24)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+**Open to opportunities worldwide** - Let's build something amazing together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omsapkar1224/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:omsapkar17@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/heydevil_01)
+
+</div>
 
 ---
 
-### 💬 Let's Build Something Amazing Together!
+<div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Turning data into insights, one model at a time."*
 
----
-
-<sub>Made with ❤️ and lots of ☕ by Om Sapkar</sub>  
-<sub>Last Updated: November 2025</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=OmSapkar24&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
